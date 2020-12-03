@@ -2,7 +2,9 @@
 
 I'm an Android software engineer passionated about building beatiful and robust products. I'm from Spain, currently living in Madrid.
 
-- 🌱 I’m currently improving my Kotlin skills, while learning more about new modern Android components.
+- 🌱 I love writting code in Kotlin, while keep learning about it. I also love being up to date and learning about new modern components within Android development (Flow, Compose, Jetpack components, etc).
+- :wrench: When working on new stuff, I do love getting the big picture, raising all the questions and then work on the simplest and more scalable solution possible.
+- :confetti_ball: I do also have a thing for UX and beautiful designs.
 - 💬 Ask me about Android, Kotlin.
 - 👯 I’m looking to collaborate on projects/companies that care about Android platform and how to build great projects for it.
 - 📫 How to reach me: [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
